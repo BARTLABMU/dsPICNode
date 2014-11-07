@@ -1,0 +1,18 @@
+<package>
+  <description brief="dsPICNode">
+
+     dsPICNode
+
+  </description>
+  <author>bl@home</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/dsPICNode</url>
+  <depend package="roscpp"/>
+  <depend package="cereal_port"/>
+  <depend package="std_msgs"/>
+  <depend package="geometry_msgs"/>
+
+</package>
+
+
